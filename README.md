@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Ekansh 👋
 
-<!--
-**onlyEkansh/OnlyEkansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student interested in technology, programming, and building useful projects.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Student
+- 💻 Learning Web Development and Programming
+- 🚀 Building real-world projects
+- 🧠 Learning through experimentation and practice
+
+My Project
+
+"MANHUNT" (https://onlyekansh.github.io/Manhunt/)
+
+A real-world multiplayer location-based game built using web technologies and Firebase.
+
+Technologies I'm Exploring
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- C Programming
+
+My Goal
+
+To become a better developer by learning, building, and improving one project at a time.
